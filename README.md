@@ -1,19 +1,16 @@
-# Primer_Proyecto_Excel_Henry
-
-Este fue el primer proyecto que realicé al comenzar mi carrera de Data Analytics en Henry
-
-# Proyecto 1: Primer Proyecto Excel
+# Proyecto 1: Proyecto de análisis con Google Sheets
 
 ## Descripción
 
-Este proyecto se centra en el análisis y preparación de datos de ventas de la empresa Global Super Store, utilizando técnicas de limpieza y transformación de datos, así como la creación de tablas dinámicas y dashboards interactivos.
+#### Este fue el primer proyecto que realicé al comenzar mi carrera de Data Analytics en Henry
+Está centrado en el análisis y preparación de datos de ventas de la empresa Global Super Store, utilizando técnicas de limpieza y transformación de datos, así como la creación de tablas dinámicas y dashboards interactivos.
 
 ## Contenido
 
 - `Master Global Super Store`: Dataset principal con los datos de ventas.
 - `Productos`: Dataset auxiliar con información de productos.
 
-## Avances y Acciones Realizadas
+## Descripción de los Avances y Acciones Realizadas
 
 ### Avance n°1 - Conociendo y preparando los datasets
 
